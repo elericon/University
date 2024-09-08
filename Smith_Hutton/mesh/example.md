@@ -1,0 +1,1 @@
+Example mesh to use.
